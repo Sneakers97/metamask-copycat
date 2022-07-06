@@ -1,2 +1,2 @@
 # metamask-copycat
-Testing different methods of how my crypto was stolen
+My cryptocurrency was stolen a few months ago, the theif somehow drained my wallet. I am new to the ecosystem of cryptocurrency and was perplexed how they pulled it off. At the time, I was persuing the validity of the idea that I might have been phished and I wanted to see if it was possible. Through what I programmed, I discovered that it is indeed possible that I was phished but unlikely the way I was exploited. Through further research and discussion on hacker forums I believe I most likely signed a fradulant smart contract.
